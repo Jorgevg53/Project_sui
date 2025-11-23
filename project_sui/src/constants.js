@@ -1,4 +1,4 @@
-export const PACKAGE_ID = "0xabc0e8d9b05b46ea8b50f7183de8a235a8acffaf1254e428446a0fa659ef7c68"
+export const PACKAGE_ID = "0xf7d5d4d1a8461769d72897892ed7fd26502fa775813049eeaf0815e7603a4421"
 
 export const APP_CONFIG = {
   NAME: "PhoneStore Pro",
